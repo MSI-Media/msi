@@ -1,0 +1,60 @@
+<?php session_start();
+{
+    error_reporting (E_ERROR);
+    require_once("_includes/_data.php");
+    require_once("_includes/_moviePageUtils.php");
+    require_once("includes/utils.php");
+
+    $cLink = msi_dbconnect();
+    mysql_query("SET NAMES utf8");
+    $search = $_POST['search'];
+    $saveSearch = $search;
+
+    $n = array();
+    $n = buildArrayFromQuery("SELECT name from UNICODE_MAPPING WHERE unicode like \"$search%\" limit 1",'name');
+    $new_match_string = '';
+    $min_size = 1000;
+    foreach ($n as $nelem){
+	if (strlen($nelem) < $min_size){
+	    $new_match_string = $nelem;
+	    $min_size = strlen($nelem);
+	}
+    }
+    if ($new_match_string != '') { 
+	if (strlen($new_match_string) > 6) {
+	    $new_match_string = substr($new_match_string,0,6);
+	}
+	$search = $new_match_string; 
+    }
+    if (strlen($new_match_string) > strlen($saveSearch)){
+	$search = $saveSearch;
+    }
+   mysql_close($cLink);
+
+   $db = $_POST['db'];
+    if ($db == 'movies'){
+       location_replace("$_Master_search_process?db=$db&moviename=$search&search_type=1");
+   }
+   else if ($db == 'moviesongs'){
+       location_replace("$_Master_search_process?db=$db&songname=$search&search_type=1");
+   }
+   else if ($db == 'albums'){
+       location_replace("$_Master_search_process?db=$db&albumname=$search&search_type=1");
+   }
+   else if ($db == 'albumsongs'){
+       location_replace("$_Master_search_process?db=$db&songname=$search&search_type=1");
+   }
+   else if ($db == 'raga'){
+       location_replace("$_Master_profile_script?artist=$search&category=raga");
+   }
+   else if ($db == 'year'){
+       location_replace("$_Master_profile_script?artist=$search&category=year");
+   }
+   else {
+       location_replace("$_Master_quicksearch?q=$search");
+   }
+}
+function location_replace($loc){
+    echo "<script>location.replace(\"$loc\");</script>";
+}
+?>

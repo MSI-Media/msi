@@ -1,0 +1,23 @@
+<div class=pbheading>
+MSI Quiz
+</div>
+
+<div class=ptableshighlight>
+MSI Quiz is a Daily Quiz based on the data in the MSI database, the most comprehensive malayalam music and movie database. <P>
+
+The quiz questions are updated daily !<P>
+
+<ul>
+<BR><img src="icons/arrow-new.png" height=20 border=0> &nbsp;&nbsp;  10 points are awarded for every correct answer, none for wrong or partial answers
+<BR><img src="icons/arrow-new.png" height=20 border=0> &nbsp;&nbsp; Quiz Leaderboard tabulates the points till date
+<BR><img src="icons/arrow-new.png" height=20 border=0> &nbsp;&nbsp;  There will be winners announced every month and we request you to provide your details to help with the announcements
+<BR><img src="icons/arrow-new.png" height=20 border=0> &nbsp;&nbsp; Answers for the prior days show up automatically the next day
+<BR><img src="icons/arrow-new.png" height=20 border=0> &nbsp;&nbsp; Every month, the top scorer in the quiz for that month will a gift card from MSI (Gift card valued at INR100 can be used for purchases of Audio, Video or Books at the <a href="http://myindiashopping.com/" target="_new">MyIndiaShopping.Com</a>).  The winners will be announced on the 1st of the month for the previous month starting Nov 1, 2013
+<BR><img src="icons/arrow-new.png" height=20 border=0> &nbsp;&nbsp; In case there are multiple winners with the same score each of the winners will get the same Gift card each valued at INR100
+<BR><img src="icons/arrow-new.png" height=20 border=0> &nbsp;&nbsp; Pictures of the top 3 winners are published on the MSI quiz page every month
+<BR><img src="icons/arrow-new.png" height=20 border=0> &nbsp;&nbsp; At the end of every year we will announce the winners for the whole year who will receive a Gift card for INR500. This will start on Jan 1st, 2014.
+<BR><img src="icons/arrow-new.png" height=20 border=0> &nbsp;&nbsp; Decisions made by the MSI administration team is final when there are any conflicts. 
+<BR><img src="icons/arrow-new.png" height=20 border=0> &nbsp;&nbsp; MSI administrative team is not eligible to win the prizes in MSI quiz. For questions and concerns, please reach out to <a href="mailto:msiadmins@googlegroups.com">us </a>
+
+</ul>
+</div>

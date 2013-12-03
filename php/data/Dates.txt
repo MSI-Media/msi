@@ -1,0 +1,352 @@
+12:26:1945:Actors:actors:Narendra Prasad:Birthday
+12:25:1919:Musician:musician:Naushad:Birthday
+12:25:1948:Lyricist:lyricist:Poovachal Khader:Birthday
+12:24:1924:Singers:singers:Mohammed Rafi:Birthday
+12:23:2002:Actors:actors:Ratheesh:Anniversary
+12:22:1919:Musician:musician:V Dakshinamoorthy:Birthday
+12:17:2005:Directors:director:N Sankaran Nair:Anniversary
+12:17:1961:Lyricist:lyricist:Rafeeq Ahamed:Birthday
+12:17:1979:Actors:actors:Indrajith:Birthday
+12:16:1929:Actors:actors:Prem Nazeer:Birthday
+12:15:2005:Actors:actors:TK Balachandran:Anniversary
+12:13:1977:Actors:actors:Ragini:Anniversary
+12:12:1997:Actors:actors:MG Soman:Anniversary
+12:10:1960:Singers:singers:G Venugopal:Birthday
+12:10:1938:Actors:actors:Thilakan:Birthday
+12:10:1965:Actors:actors:Jayaram:Birthday
+12:09:2012:Actors:actors:Jagannadhan:Anniversary
+12:08:1992:Directors:director:Thoppil Bhasi:Anniversary
+12:07:1939:Singers:singers:LR Eeswari:Birthday
+12:06:1936:Lyricists:lyricist:Pappanamkodu Lakshmanan:Birthday
+12:05:1992:Actors:actors:Monisha:Anniversary
+12:04:1930:Singers:singers:Kamukara:Birthday
+12:02:1914:Musician:musician:K Raghavan:Birthday
+12:02:1957:Singers:singers:Unni Menon:Birthday
+12:02:2000:Actors:actors:Bobby Kottarakkara:Anniversary
+11:30:1945:Singers:singers:Vani Jairam:Birthday
+11:30:1954:Actors:actors:Lalu Alex:Birthday
+11:28:2013:Actors:actors:Thiruthiyadu Vilasini:Passed Away
+11:28:1957:Directors:director:Kamal:Birthday
+11:26:2012:Actors:actors:PK Venukkuttan Nair:Anniversary
+11:26:1976:Actors:actors:Samyuktha Varma:Birthday
+11:25:2007:Actors:actors:Ravi Menon:Anniversary
+11:22:2010:Camera:camera:Mankada Ravi Varma:Anniversary
+11:22:1952:Directors:director:Bhadran:Birthday
+11:22:1993:Directors:director:PA Bakker:Anniversary
+11:20:1980:Actors:actors:Salini:Birthday
+11:19:1922:Musician:musician:Salil Chowdhary:Birthday
+11:19:1986:Singers:singers:Swetha:Birthday
+11:18:1985:Actors:actors:Nayanthara:Birthday
+11:16:1980:Actors:actors:Jayan:Anniversary
+11:16:1941:Screenplay:screenplay:George Onakkoor:Birthday
+11:14:2013:Actors:actors:Augustine:Passed Away
+11:14:1947:Directors:director:Bharathan:Birthday
+11:14:1985:Actors:actors:Mamta Mohandas:Birthday
+11:14:1995:Actors:actors:NN Pillai:Anniversary
+11:13:1935:Singers:singers:P Susheela:Birthday
+11:12:1961:Singers:singers:Lathika:Birthday
+11:09:1941:Musician:musician:Raveendran:Birthday
+11:09:1912:Actors:actors:Sathyan:Birthday
+11:08:1947:Singers:singers:Usha Uthup:Birthday
+11:07:1969:Actors:actors:Nandita Das:Birthday
+11:07:1980:Singers:singers:Karthik:Birthday
+11:07:1959:Singers:singers:Sreenivas:Birthday
+11:07:1954:Actors:actors:Kamalahasan:Birthday
+11:07:1970:Actors:actors:Lakshmi Gopalaswamy:Birthday
+11:04:1999:Actors:actors:Sainuddin:Anniversary
+11:03:1935:Singers:singers:Jikki:Birthday
+11:03:1941:Singers:singers:P Madhuri:Birthday
+11:03:2003:Actors:actors:Narendra Prasad:Anniversary
+11:03:1959:Musician:musician:Ramesh Narayan:Birthday
+11:03:1956:Actors:actors:Mukesh:Birthday
+11:02:1937:Actors:actors:Bharath Gopi:Birthday
+11:01:1978:Actors:actors:Manju Warrier:Birthday
+10:31:2005:Singers:singers:P Leela:Anniversary
+10:31:1986:Actors:actors:Samvrutha Sunil:Birthday
+10:29:2001:Actors:actors:KP Ummer:Anniversary
+10:29:1950:Screenplay:screenplay:John Paul:Birthday
+10:27:1968:Actors:actors:Dileep:Birthday
+10:27:1975:Lyricists:lyricist:Vayalar:Anniversary
+10:27:2001:Lyricists:lyricist:Fr Abel:Anniversary
+10:25:2009:Actors:actors:Adoor Bhavani:Anniversary
+10:24:2013:Singers:singers:Manna Dey:Passed Away
+10:22:2011:Lyricists:lyricist:Mullanezhi:Anniversary
+10:21:1988:Actors:actors:Nithya Menon:Birthday
+10:19:2013:Musician:musician:K Raghavan:Passed Away
+10:19:2006:Actors:actors:Sreevidya:Anniversary
+10:19:1985:Actors:actors:Rani Padmini:Anniversary
+10:16:1916:Actors:actors:Thikkurissi Sukumaran Nair:Birthday
+10:16:1982:Actors:actors:Prithviraj:Birthday
+10:15:2001:Musician:musician:AT Ummer:Anniversary
+10:14:1986:Actors:actors:Navya Nair:Birthday
+10:13:1987:Singers:singers:Kishore Kumar:Anniversary
+10:11:1930:Actors:actors:KP Ummer:Birthday
+10:11:1984:Actors:actors:Nivin Pauly:Birthday
+10:11:1969:Screenplay:screenplay:James Albert:Birthday
+10:09:2001:Actors:actors:Sankaradi:Anniversary
+10:07:1978:Musician:musician:MS Baburaj:Anniversary
+10:07:1984:Actors:actors:Naren:Birthday
+10:06:1946:Singers:singers:Kalamandalam Hyderali:Birthday
+10:06:1952:Lyricists:lyricist:K Jayakumar:Birthday
+10:05:1953:Directors:director:Fazil:Birthday
+10:04:2013:Singers:singers:Usha Ravi:Passed Away
+10:04:1978:Producer:producer:P Subramaniam:Anniversary
+10:03:1967:Musician:musician:Sharath:Birthday
+10:02:1982:Actors:actors:MS Namboothiri:Anniversary
+09:29:1991:Actors:actors:Vaikkam Mani:Anniversary
+09:27:1929:Musician:musician:Pukazhenthi:Birthday
+09:27:1924:Musician:musician:G Devarajan:Birthday
+09:24:1941:Actors:actors:MG Soman:Birthday
+09:24:2012:Actors:actors:Thilakan:Anniversary
+09:23:1959:Lyricists:lyricist:Gireesh Puthenchery:Birthday
+09:23:1962:Actors:actors:Shobha:Birthday
+09:23:1908:Actors:actors:Premji:Birthday
+09:22:1930:Singers:singers:PB Sreenivas:Birthday
+09:23:1933:Actors:actors:Madhu:Birthday
+09:20:1961:Directors:director:TK Rajeev Kumar:Birthday
+09:19:1984:Actors:actors:Kavya Madhavan:Birthday
+09:19:1925:Musician:musician:MB Sreenivasan:Birthday
+09:17:2004:Actors:actors:Sudheer:Anniversary
+09:13:1954:Musician:musician:Ouseppachan:Birthday
+09:13:1976:Actors:actors:Ranichandra:Anniversary
+09:12:1995:Producer:producer:Hari Pothan:Anniversary
+09:12:1959:Camera:camera:Jayanan Vincent:Birthday
+09:10:1982:singer:singers:Chinmayi:Birthday
+09:10:1939:Actors:actors:Kaviyoor Ponnamma:Birthday
+09:09:2008:Directors:director:PN Menon:Anniversary
+09:09:2010:Actors:actors:Venu Nagavally:Anniversary
+09:09:1965:Actors:actors:Biju Menon:Birthday
+09:08:1933:Singers:singers:Asha Bhosle:Birthday
+09:07:1953:Actors:actors:Mammootty:Birthday
+09:07:1919:Actors:actors:Kunjandi:Birthday
+09:05:2013:Actors:actors:Hakkeem Rawuther:Passed Away
+09:05:1995:Musician:musician:Salil Chowdhary:Anniversary
+09:05:1964:Directors:director:Ranjith:Birthday
+09:05:1986:Singers:singers:Jyotsna:Birthday
+09:01:1980:Singers:singers:Vidhu Prathap:Birthday
+08:31:1978:actor:actors:Jayasurya:Birthday
+08:31:2007:Musician:musician:BA Chidambaranath:Anniversary
+08:30:1991:actor:actors:Vincent:Anniversary
+08:27:1963:actor:actors:Sumalatha:Birthday
+08:26:2013:lyricist:lyricist:TC John:Passed Away
+08:26:2000:actor:actors:Balan K Nair:Anniversary
+08:26:1956:actor:actors:Sreenath:Birthday
+08:25:1973:singer:singers:Nithyashree Mahadevan:Birthday
+08:25:1984:actor:actors:Roma:Birthday
+08:23:1969:Actors:actors:Vineeth:Birthday
+08:19:1986:Actors:actors:Kottarakkara Sreedharan Nair:Anniversary
+08:18:2011:Musician:musician:Johnson:Anniversary
+08:17:1965:Directors:director:Shaji Kailas:Birthday
+08:17:1973:Lyricists:lyricist:Rajiv Alunkal:Birthday
+08:16:1972:Actors:actors:Kottayam Chellappan:Anniversary
+08:16:2004:Singers:singers:Jikki:Anniversary
+08:13:1964:Actors:actors:Sreedevi:Birthday
+08:13:1952:Actors:actors:Prathap Pothen:Birthday
+08:11:1937:Directors:director:John Abraham:Birthday
+08:11:1988:Actors:actors:Nellikkodu Bhaskaran:Anniversary
+08:10:1998:Actors:actors:Premji:Anniversary
+08:10:2004:Singers:singers:KP Brahmanandan:Anniversary
+08:08:2013:Musician:musician:Saratchandra Marathe:Anniversary
+08:08:1982:Actors:actors:Fahad Fazil:Birthday
+08:08:1979:Actors:actors:Muthukulam Raghavan Pillai:Anniversary
+08:06:2009:Actors:actors:Murali:Anniversary
+08:06:1982:Story:story:SK Pottakkad:Anniversary
+08:03:1977:Actors:actors:Anoop Menon:Birthday
+08:02:2013:Musician:musician:V Dakshinamoorthy:Passed Away
+07:31:1980:Singers:singers:Mohammed Rafi:Anniversary
+07:30:1998:Directors:director:Bharathan:Anniversary
+07:30:1973:Singers:singers:Sonu Nigam:Birthday
+07:29:1940:Musician:musician:MG Radhakrishnan:Birthday
+07:29:2009:Actors:actors:Rajan P Dev:Anniversary
+07:28:1986:Actors:actors:Dulquer Salmaan:Birthday
+07:27:1963:Singers:singers:KS Chithra:Birthday
+07:27:1977:Actors:actors:Kambissery Karunakaran:Anniversary
+07:26:2008:Singers:singers:Santha P Nair:Anniversary
+07:26:1966:Actors:actors:Manoj K Jayan:Birthday
+07:25:1939:Actors:actors:Jayan:Birthday
+07:25:2000:Lyricists:lyricist:Abhayadev:Anniversary
+07:24:1953:Actors:actors:Sreevidya:Birthday
+07:21:2001:Actors:actors:Sivaji Ganesan:Anniversary
+07:20:1950:Actors:actors:Naseeruddin Shah:Birthday
+07:18:1952:Directors:director:Joshi:Birthday
+07:15:1933:Story:story:MT Vasudevan Nair:Birthday
+07:14:1978:Singers:singers:Gayathri:Birthday
+07:12:2012:Actors:actors:Dara Singh:Anniversary
+07:13:2003:Actors:actors:Azeez:Anniversary
+07:08:1966:Actors:actors:Revathy:Birthday
+07:07:2013:Actors:actors:Santo Krishnan:Anniversary
+07:06:2003:Musician:musician:LPR Varma:Anniversary
+07:06:1930:Singers:singers:M Balamuralikrishna:Birthday
+07:05:1946:Actors:actors:Mamukoya:Birthday
+07:03:1941:Directors:director:Adoor Gopalakrishnan:Birthday
+07:02:2010:Musician:musician:MG Radhakrishnan:Anniversary
+06:28:2009:Story:story:Lohithadas:Anniversary
+06:27:1950:Actors:actors:Captain Raju:Birthday
+06:26:2013:Directors:director:K Suku(K Sukumaran):Anniversary
+06:26:1959:Actors:actors:Suresh Gopi:Birthday
+06:25:1913:Lyricist:lyricist:Abhayadev:Birthday
+06:24:1974:Singers:singers:Madhu Balakrishnan:Birthday
+06:24:1928:Musician:musician:MS Viswanathan:Birthday
+06:21:1933:Musician:musician:RK Sekhar:Birthday
+06:17:1947:Lyricists:lyricist:Bharanikkavu Sivakumar:Birthday
+06:16:1929:Musician:musician:Job:Birthday
+06:16:1960:Singers:singers:Krishnachandran:Birthday
+06:16:1997:Actors:actors:Sukumaran:Anniversary
+06:15:1971:Actors:actors:Sathyan:Anniversary
+06:15:1936:Singers:singers:KP Udayabhanu:Birthday
+06:12:1958:Actors:actors:Jagadeesh:Birthday
+06:12:1932:Actors:actors:Padmini:Birthday
+06:12:1945:Actors:actors:Sarada:Birthday
+06:10:1968:Actors:actors:Salim Kumar:Birthday
+06:08:1949:Lyricists:lyricist:PK Gopi:Birthday
+06:06:1986:Actors:actors:Bhavana:Birthday
+06:04:1984:Actors:actors:Priyamani:Birthday
+06:04:1946:Singers:singers:SP Balasubrahmanyam:Birthday
+06:03:1901:Lyricists:lyricist:G Sankarakurup:Birthday
+06:02:1943:Musician:musician:Ilayaraja:Birthday
+06:02:1956:Directors:director:Manirathnam:Birthday
+05:31:1987:Directors:director:John Abraham:Anniversary
+05:27:2006:Actors:actors:Oduvil Unnikrishnan:Anniversary
+05:27:1931:Lyricists:lyricist:ONV Kurup:Birthday
+05:26:1995:Singers:singers:Kamukara:Anniversary
+05:25:1957:Singers:singers:MG Sreekumar:Birthday
+05:24:1945:Directors:director:KG George:Birthday
+05:23:1945:Directors:director:P Padmarajan:Birthday
+05:23:1967:Actors:actors:Rahman:Birthday
+05:22:1957:Actors:actors:Seema:Birthday
+05:22:2001:Actors:actors:Bahadoor:Anniversary
+05:22:1948:Actors:actors:Nedumudi Venu:Birthday
+05:21:1960:Actors:actors:Mohanlal:Birthday
+05:20:1951:Actors:actors:Rajan P Dev:Birthday
+05:19:1963:Actors:actors:Saikumar:Birthday
+05:18:2012:Actors:actors:Gavin Packard:Anniversary
+05:16:1948:Lyricists:lyricist:Mullanezhi:Birthday
+05:16:1936:Lyricists:lyricist:Yusufali Kecheri:Birthday
+05:16:1944:Actors:actors:TG Ravi:Birthday
+05:15:1989:Actors:actors:Mithra Kurian:Birthday
+05:15:1961:Producers:producer:Milan Jaleel:Birthday
+05:14:2012:Actors:actors:Taruni Sachdev:Anniversary
+05:10:1955:Directors:director:Lohithadas:Birthday
+05:05:1981:Actors:actors:Lakshmi Rai:Birthday
+05:05:1946:Actors:actors:Janardhanan:Birthday
+05:04:1767:Lyricists:lyricist:Traditional (Thyagaraja):Birthday
+05:01:1919:Singers:singers:Manna Dey:Birthday
+04:28:1928:Lyricists:lyricist:Kavalam Narayana Panicker:Birthday
+04:23:2010:Actors:actors:Sreenath:Anniversary
+04:23:1938:Singers:singer:S Janaki:Birthday
+04:23:2012:Producers:producer:Appachan (Navodaya):Anniversary
+04:22:1951:Actors:actors:Cochin Haneefa:Birthday
+04:21:1924:Lyricists:lyricist:P Bhaskaran:Birthday
+04:17:1986:Singerrs:singers:Manjari:Birthday
+04:16:1813:Lyricists:lyricist:Swathi Thirunal:Birthday
+04:15:1938:Musician:musician:Jerry Amaldev:Birthday
+04:14:2013:Singers:singers:PB Sreenivas:Anniversary
+04:14:1931:Singers:singers:Kaviyoor Revamma:Birthday
+04:14:1925:Actors:actors:Jose Prakash:Birthday
+04:11:1936:Lyricists:lyricist:Chirayinkeezhu Ramakrishnan Nair:Birthday
+04:10:2012:Actors:actors:Baby Cherian:Anniversary
+04:08:1990:Actors:actors:Nithya Menon:Birthday
+04:06:1959:Actors:actors:Harishree Ashokan:Birthday
+04:04:1956:Actors:actors:Sreenivasan:Birthday
+04:03:1955:Singers:singers:Hariharan:Birthday
+04:01:1957:Art:art:Rajan Varandarappilly:Birthday
+03:31:1963:Singers:singers:Sujatha:Birthday
+03:31:1922:Producer:producer:Kambissery Karunakaran:Birthday
+03:29:1990:Actors:actors:Adoor Bhasi:Anniversary:
+03:29:1921:Musician:musician:MS Baburaj:Birthday:
+03:29:1944:Singers:singers:B Vasantha:Birthday:
+03:28:2012:Screenplay:screenplay:T Damodaran:Anniversary
+03:28:1948:Directors:director:IV Sasi:Birthday
+03:27:1928:Lyricist:lyricist:Vayalar:Birthday
+03:26:2013:Actors:actors:Sukumari:Anniversary
+03:26:1953:Musician:musician:Johnson:Birthday
+03:25:2008:Story:story:KT Muhammad:Anniversary
+03:24:2012:Actors:actors:Jose Prakash:Anniversary
+03:24:1945:Actors:actors:Sheela:Birthday
+03:23:1979:Singers:singers:Vijay Yesudas:Birthday
+03:21:1966:Actors:actors:Shobana:Birthday
+03:20:1987:Singers:singers:Haricharan:Birthday
+03:19:1937:Musician:musician:Shyam:Birthday
+03:18:1940:Singers:singers:Eranholi Moosa:Birthday
+03:17:1974:Actors:actors:Vijayasree:Anniversary
+03:16:1940:Lyricist:lyricist:Sreekumaran Thampi:Birthday
+03:15:1991:Directors:director:G Aravindan:Anniversary
+03:14:2013:Actors:actors:Joseph Chacko:Anniversary
+03:14:2006:Musician:musician:G Devarajan:Anniversary
+03:14:1979:Actors:actors:PJ Antony:Anniversary
+03:14:1913:Story:story:SK Pottakkad:Birthday
+03:12:1984:Singers:singers:Shreya Ghoshal:Birthday
+03:12:1962:Actors:actors:Unnimary:Birthday
+03:11:1997:Actors:actors:Thikkurissi Sukumaran Nair:Anniversary
+03:10:1933:Musician:musician:AT Ummer:Birthday
+03:09:1988:Musician:musician:MB Sreenivasan:Anniversary
+03:08:2011:Actors:actors:Kumari Thankam:Anniversary
+03:08:2006:Actors:actors:MS Thrippoonithura:Anniversary
+03:08:1964:Camera:camera:Santhosh Sivan:Birthday
+03:07:2012:Musician:musician:Bombay Ravi:Anniversary
+03:06:1992:Actors:actors:Prem Navas:Anniversary
+03:06:1949:Camera:camera:Madhu Ambat:Birthday
+03:03:1944:Singers:singers:P Jayachandran:Birthday
+03:03:1959:Singers:singers:Kavalam Sreekumar:Birthday
+03:03:2005:Musician:musician:Raveendran:Anniversary
+03:03:1963:Musician:musician:Vidyasagar:Birthday
+03:02:2011:Musician:musician:Ahuan Sebastian:Anniversary
+03:02:1959:Directors:director:Anil C Menon:Birthday
+03:02:1927:Actors:actors:Adoor Bhasi:Birthday
+02:28:1980:Actors:actors:Padmapriya:Birthday
+02:28:1920:Story:story:Pamman:Birthday
+02:28:1948:Actors:actors:Innocent:Birthday
+02:25:2007:Lyricists:lyricist:P Bhaskaran:Anniversary
+02:25:1950:Actors:actors:KPAC Lalitha:Birthday
+02:25:2000:Actors:actors:Kuthiravattam Pappu:Anniversary
+02:24:1940:Producer:producer:Trichur Rajan:Birthday
+02:23:1981:Musician:musician:Stephen Devassy:Birthday
+02:22:1946:Singers:singers:KP Brahmanandan:Birthday
+02:21:2011:Actors:actors:Aranmula Ponnamma:Anniversary
+02:17:1961:Lyricists:lyricist:Shibu Chakravarthy:Birthday
+02:17:1992:Actors:actors:TS Muthaiah:Anniversary
+02:15:1939:Directors:director:C Radhakrishnan:Birthday
+02:15:1982:Actors:actors:Meera Jasmine:Birthday
+02:14:1927:Musicians:musician:LPR Varma:Birthday
+02:14:1933:Directors:director:Dr Balakrishnan:Birthday
+02:13:1977:Singers:singer:Kozhikode Adbul Khader:Anniversary
+02:13:1942:Lyricists:lyricist:Bichu Thirumala:Birthday
+02:13:1938:Actors:actors:Oduvil Unnikrishnan:Birthday
+02:11:2013:Lyricists:lyricist:D Vinayachandran:Anniversary
+02:10:2010:Lyricists:lyricist:Gireesh Puthenchery:Anniversary
+02:09:1901:Actors:actors:Sebastian Kunju Kunju Bhagavathar:Birthday
+02:04:1986:Actors:actors:Asif Ali:Birthday
+02:04:1990:Actors:actors:Nilamboor Balan:Anniversary
+02:03:2011:Actors:actors:Machan Varghese:Anniversary
+02:02:2010:Actors:actors:Cochin Haneefa:Anniversary
+02:02:1928:Actors:actors:TK Balachandran:Birthday
+02:02:1952:Story:story:P Balachandran:Birthday
+01:30:1957:Directors:director:Priyadarsan:Birthday
+01:29:2008:Actors:actors:Bharath Gopi:Anniversary
+01:24:1991:Directors:director:P Padmarajan:Anniversary
+01:24:2007:Lyricists:lyricist:Bharanikkavu Sivakumar:Anniversary
+01:23:1986:Actors:actors:Manavalan Joseph:Anniversary
+01:21:1935:Directors:director:G Aravindan:Birthday
+01:19:1936:Lyricists:lyricist:Chunakkara Ramankutty:Birthday
+01:19:1920:Lyricists:lyricist:Fr Abel:Birthday
+01:18:1953:Singers:singers:Satheesh Babu:Birthday
+01:16:1989:Actors:actors:Prem Nazeer:Anniversary
+01:15:1929:Producer:producer:MO Joseph:Birthday
+01:14:2008:Makeup:makeup:MO Devassya:Anniversary
+01:11:1954:Directors:director:Balachandra Menon:Birthday
+01:11:1966:Directors:director:Lal Jose:Birthday
+01:10:1940:Singers:singer:KJ Yesudas:Birthday
+01:09:1979:Producer:producer:Trichur Rajan:Anniversary
+01:07:1907:Producer:producer:P Subramaniam:Birthday
+01:06:1966:Musician:musician:AR Rahman:Birthday
+01:06:2002:Actors:actors:Kunjandi:Anniversary
+01:05:2006:Singers:singer:Kalamandalam Hyderali:Anniversary
+01:05:1951:Actors:actors:Jagathy Sreekumar:Birthday
+01:03:1955:Directors:director:Sathyan Anthikkad:Birthday
+01:02:2006:Actors:actors:Philomina:Anniversary
+01:02:1964:Actors:actors:Shanthikrishna:Birthday
+01:01:1971:Actors:actors:Kalabhavan Mani:Birthday
+01:01:1952:Directors:director:Shaji N Karun:Birthday
+
+
+

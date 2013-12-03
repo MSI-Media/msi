@@ -1,0 +1,234 @@
+
+
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
+<head>
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+        <title></title>
+        <meta name="description" content="">
+        <meta name="keywords" content="">
+    <meta property="fb:app_id" content="176790735765869"/>
+    <meta property="og:title" content=""/>
+    <meta property="og:description" content=""/>
+    <link rel="stylesheet" href="http://msidb.org/msi2013_setup/style.css" type="text/css" media="all">
+    <script type="text/javascript" src="js/search/creative_table_ajax-1.3.js" charset="utf-8"></script>
+    <script type="text/javascript" src="js/tt/jquery.js" charset=UTF-8></script>
+    <script type="text/javascript" src="js/tt/main.js" charset=UTF-8></script>
+    <script type="text/javascript" src="js/tt/mainpreview.js" charset=UTF-8></script>
+<!-- style -->
+<!--end-->
+<link type="text/css" rel="stylesheet" href="chrome-extension://cpngackimfmofbokmjmljamhdncknpmg/style.css"><script type="text/javascript" charset="utf-8" src="chrome-extension://cpngackimfmofbokmjmljamhdncknpmg/page_context.js"></script>
+    <script type="text/javascript" src="js/search/jquery-1.4.2.min.js" charset=UTF-8></script>
+    <script type="text/javascript" src="js/tt/jquery.js" charset=UTF-8></script>
+    <script type="text/javascript" src="js/tt/main.js" charset=UTF-8></script>
+    <script type="text/javascript" src="js/tt/mainpreview.js" charset=UTF-8></script>
+ <script type="text/javascript">
+function validateForm()
+{
+    var x=document.forms["myForm"]["email"].value;
+    var atpos=x.indexOf("@");
+    var dotpos=x.lastIndexOf(".");
+if (atpos<1 || dotpos<atpos+2 || dotpos+2>=x.length)
+{
+    alert("നിങ്ങൾ നല്കിയ ഈമെയിൽ വിലാസം തെറ്റാണ് ");
+    return false;
+}
+ else { document.submit(); }
+}
+function validateMVForm()
+{
+    var x=document.forms["mailform"]["userid"].value;
+    var atpos=x.indexOf("@");
+    var dotpos=x.lastIndexOf(".");
+if (atpos<1 || dotpos<atpos+2 || dotpos+2>=x.length)
+{
+    alert("നിങ്ങൾ നല്കിയ ഈമെയിൽ വിലാസം തെറ്റാണ് ");
+    return false;
+}
+ else { document.submit(); }
+}
+	    function disableSelection(target){
+if (typeof target.onselectstart!="undefined") 
+   target.onselectstart=function(){return false}
+else if (typeof target.style.MozUserSelect!="undefined") 
+     target.style.MozUserSelect="none"
+ else //All other route (ie: Opera)
+     target.onmousedown=function(){return false}
+target.style.cursor = "default";
+}
+</script>
+<div id="fb-root"></div>
+<script>(function(d, s, id) {
+  var js, fjs = d.getElementsByTagName(s)[0];
+  if (d.getElementById(id)) return;
+  js = d.createElement(s); js.id = id;
+js.src = "//connect.facebook.net/ml_IN/all.js#xfbml=1&appId=176790735765869";
+  fjs.parentNode.insertBefore(js, fjs);
+}(document, 'script', 'facebook-jssdk'));</script>
+</script>
+</head>
+<body>
+  <header class="header_wrapper">
+                    <div class="main">
+                        <div class="top">
+                        <div class="column-one">
+                          <div class="left_block">
+                            <a href="http://msidb.org/index.php"><img src="http://msidb.org/images/MSI2012LogoUpdated.png" height=70 width=300 alt="MSI Logo"></a>
+                            </div>
+                            <div class="right_block">
+                              <div class="list_icon">
+                                <nav class="topico">
+                                  <ul>
+      <li><a href="http://twitter.com/#!MSI_MusicMovies" target="new"><img src="http://msidb.org/./icons/socialmedia/twitter.png" alt="" height="29" width="30"></a></li>
+      <li><a href="http://www.youtube.com/malayalasangeetham" target="new"><img class="any" src="./icons/socialmedia/youtube.png" onmouseover="this.src=./icons/socialmedia/PNG/youtube.png" alt="" height="29" width="30"></a></li>
+      <li><a href="http://facebook.com/malayalasangeetham.info" target="new"><img src="http://msidb.org/./icons/socialmedia/facebook.png" alt="" height="29" width="30"></a></li>
+      <li><a href="http://malayalasangeetham.blogspot.com" target="new"><img src="http://msidb.org/./icons/socialmedia/bloggr.png" alt="" height="29" width="30"></a></li>
+      <li><a href="http://plus.google.com/u/0/118172512910477069354/posts" target="new"><img src="http://msidb.org/./icons/socialmedia/googleplus.png" alt="" height="29" width="30"></a></li>
+      <li><a href="http://pinterest.com/msimusicmovies/boards/" target="new"><img src="http://msidb.org/icons/socialmedia/pinterest.png" alt="" height="29" width="30"></a></li>
+      <li><a href="http://x.co/msiios" target="new"><img src="http://msidb.org/msi2013_setup/ico-7.png" alt="" height="29" width="30"></a></li>
+      <li><a href="https://play.google.com/store/apps/details?id=org.music.MSIGUI&feature=search_result#?t=W251bGwsMSwxLDEsIm9yZy5tdXNpYy5NU0lHVUkiXQ.." target="new">
+<img src="http://msidb.org/msi2013_setup/ico-8.png" alt="" height="29" width="30"></a></li>
+                                        </ul>
+                                    </nav>
+                                </div>
+                          </div>
+                            <div class="form_block">
+                              <form method="post" action="rSearch.php" class="form_one">
+                                <span>
+                                  <input type="text" name="search" placeholder="Search Movies , Songs , Albums , Ragas , Artists ..." size=30>
+                                            <select name=db>
+                                              <option value=all>All</option>
+                                                <option value=movies>Movies</option>
+                                                 <option value=moviesongs>Songs</option>
+                                                <option value=albums>Albums</option>
+                                                <option value=albumsongs>Album Songs</option>
+                                                <option value=raga>Ragas</option>
+                                                 <option>Artists</option>
+                                            </select>
+                                                <button type="submit" class="form-one-button"></button>
+                                        </span>
+                                    </form>
+                                 </div>
+<aside class="body_wrapper">
+  <div class="main">
+<div align=center><a href="http://msidb.org/index.php"><img src="http://msidb.org/images/MSI.png" alt="MSI Symbol"></a></div><P>
+<div class=ptables>
+<h3>The File You Requested is not available at the usual location. Please accept our apologies and <a href="mailto:admin@maayalasangeetham.info">let us know </a> immediately.</h3><div class=ptables>
+
+</div>
+  </aside>
+<footer class="footer">
+  <div class="main">
+    <div class="lower-block">
+      <div class="block-one">
+	  <ul class="footer_menu">
+	        <li>Introduction</li>
+		    <li><a href="index.php">MSI Home</a></li>
+		        <li><a href="index.php?i=2">What is MSI ?</a></li>
+			    <li><a href="mailto:msiadmins@googlegroups.com">Contact Us</a></li>
+			        <li><a href="contribs.php">Contributors</a></li>
+				    <li><a href="contribute.php">Join MSI</a></li>
+				        <li><a href="index.php?i=3">Fonts</a></li>
+					    <li><a href="http://chillaksharam.blogspot.in" target="new">Read/Write Malayalam</a></li>
+					        <li><a href="http://www.youtube.com/watch?v=I6Yd1XApGhM&list=PLSUVViGDnpu3jeTPpwAr3LzxBvZvmAaoG&index=1" target="new">Unicode Videos</a></li>
+						    <li>&nbsp;</li>
+						        <li>Latest</li>
+							    <li><a href="listMovies.php?tag=Last100">Movies</a></li>
+							        <li><a href="listSongs.php?tag=Last100">Songs</a></li>
+								    <li><a href="listAlbums.php?tag=Last100">Albums</a></li>
+								        <li><a href="listAlbumSongs.php?tag=Last100">Album Songs</a></li>
+
+									  </ul>
+                                  <img src="http://msidb.org/msi2013_setup/divvider-footer.png" alt="" height="406" width="10">
+                                </div> 
+
+      <div class="block-one">
+	  <ul class="footer_menu">
+	        <li>Songs</li>
+		    <li><a href="search.php">Search</a></li>
+		        <li><a href="submitSongs.php">Add Missing </a></li>
+			    <li><a href="Genres.php">Song Genres</a></li>
+			        <li><a href="Ragas.php">Raga Categorization</a></li>
+				    <li><a href="Traditional.php">Traditional</a></li>
+				        <li><a href="Debut.php">Debutants</a></li>
+					    <li><a href="processSearch.php?karaoke=1&db=moviesongs">Karaokes</a></li>
+					        <li><a href="lit.php?pattupusthakams">Song Books</a></li>
+						    <li>&nbsp;</li>
+						        <li>Profiles (Songs)</li>
+							    <li><a href="profiles.php?category=musician">Musicians</a></li>
+							        <li><a href="profiles.php?category=lyricist">Lyricists</a></li>
+								    <li><a href="Singers.php">Singers</a></li>
+								        <li><a href="profiles.php?category=bgm">Re Recording</a></li>
+									  </ul>
+                                  <img src="http://msidb.org/msi2013_setup/divvider-footer.png" alt="" height="406" width="10">
+                                </div> 
+      <div class="block-one">
+	  <ul class="footer_menu">
+	        <li>Movies</li>
+		    <li><a href="search.php">Search</a></li>
+		        <li><a href="submitMovies.php">Add Missing </a></li>
+			    <li><a href="dubbed.php">Dubbed</a></li>
+			        <li><a href="unreleased.php">Unreleased</a></li>
+				    <li><a href="inproduction.php">In Production</a></li>
+				        <li>&nbsp;</li>
+					    <li>Literature
+					          <li><a href="lit.php?works">Stories</a></li>
+						      <li><a href="lit.php?authors">Authors</a></li>
+						          <li><a href="lit.php?books">References</a></li>
+							      <li>&nbsp;</li>
+							        </ul>
+	    <img src="http://msidb.org/msi2013_setup/divvider-footer.png" alt="" height="406" width="10">
+	    </div> 
+      <div class="block-one">
+	  <ul class="footer_menu">
+	        <li>Profiles</li>
+		    <li><a href="profiles.php?category=actors">Actors</a></li>
+		        <li><a href="profiles.php?category=director">Director</a></li>
+			    <li><a href="profiles.php?category=producer">Producer</a></li>
+			        <li><a href="profiles.php?category=story">Story</a></li>
+				    <li><a href="profiles.php?category=screenplay">Screenplay</a></li>
+				        <li><a href="profiles.php?category=dialog">Dialogs</a></li>
+					    <li><a href="profiles.php?category=camera">Cinematography</a></li>
+					        <li><a href="profiles.php?category=art director">Art</a></li>
+						    <li><a href="profiles.php?category=editor">Editors</a></li>
+						        <li><a href="profiles.php?category=banner">Banners</a></li>
+							    <li><a href="profiles.php?category=distribution">Distributors</a></li>
+							        <li><a href="profiles.php?category=design">Designers</a></li>
+								    <li><a href="profiles.php?category=sound">Sound Recording</a></li>
+								        <li><a href="profiles.php?category=dubbing">Voice Dubbing</a></li>
+									    <li><a href="profiles.php?category=still">Still Photography</a></li>
+									        <li><a href="profiles.php?category=makeup">Makeup</a></li>
+										    <li><a href="profiles.php?category=choreography">Choreography</a></li>
+										        <li><a href="profiles.php?category=critics">Critics/Writers</a></li>
+											  </ul>
+                                  <img src="http://msidb.org/msi2013_setup/divvider-footer.png" alt="" height="406" width="10">
+                                </div> 
+                                <div class="block-one">
+				    <ul class="footer_menu">
+				          <li>Non Movies</li>
+					      <li><a href="search.php?db=albums">Search</a></li>
+					          <li><a href="search.php?db=albumsongs">Light Music</a></li>
+						      <li><a href="createNadakamIndex.php">Dramas</a></li>
+						          <li><a href="submitMovies.php?t=ALBUM">Add Missing </a></li>
+							      <li><a href="submitSongs.php?t=ALBUM">Add Missing Album Songs</a></li>
+							        </ul>
+				      
+                                </div>
+
+                        </div>
+                        <div class="footer_text">
+                          <p>Loading<br>
+			        © 2003 - 2014 MSI . All Rights Reserved.<br>
+			        
+			        Unauthorized use of the contents from the site without attributing credit for MalayalaSangeetham.Info is stricly prohibited<br>
+			        Certain Parts of MalayalaSangeetham.Info may be licensed under a Creative Commons Attribution-ShareAlike 3.0 Unported License.<br>
+			        Permissions beyond the scope of this license may be available at mailto:admin@malayalasangeetham.info<br>
+			        Design By Xenis Infocom ( Web Design Company)</p>
+			  </div>
+                </div>
+</footer>
+           
+
+
+</body></html>
+
+</div></div></aside>

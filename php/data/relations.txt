@@ -1,0 +1,193 @@
+Urvashi,Kalaranjini:Actor:Sister
+Urvashi,,Kalpana:Actor:Sister
+Kalaranjini,Kalpana:Actor:Sister
+Adoor Pankajam,Adoor Bhavani:Actor:Sister
+Kaviyoor Ponnamma,Kaviyoor Renuka:Actor:Sister
+Lalitha,Padmini,Ragini:Actor:Sister
+LR Eeswari,LR Anjali:Actor:Sister
+KS Beena,KS Chithra:Actor:Sister
+Jayamalini,Jyothilakshmi:Actor:Sister
+KR Vijaya,KR Savithri:Actor:Sister
+Radhika,Nirosha:Actor:Sister
+Lalithasree,Madhuri:Actor:Sister
+Simran,Jyothi Naval:Actor:Sister
+Nagma,Jyothika:Actor:Sister
+Baby Salini,Baby Shyamili:Actor:Sister
+Parvathy,Deepthi:Actor:Sister
+Prem Nazeer,Prem Nava:Actor:Brother
+Mammootty,Ibrahim Kutty:Actor:Brother
+Jose Prakash,Prem Prakash:Actor:Brother
+Prithviraj,Indrajith:Actor:Brother
+MG Radhakrishnan,MG Sreekumar:Musician:Brother
+Vidyadharan,Natesh Shankar:Musician:Brother
+Charuhasan,Kamalahasan:Actor:Brother
+Lal,Alex Paul:Actors,Musician:Brother
+Sangeeth Sivan,Santhosh Sivan,Sanjeev Sivan:Camera:Brother
+Bichu Thirumala,Darsan Raman:Lyricist,Musician:Brother
+Ettumanoor Sreekumar,Hariyettumanooru:Lyricist:Brother
+Mohanlal,Pyarelal:Actor:Brother
+Suresh Gopi,Subhash Gopi:Actor:Brother
+Kunchacko,Boban Kunchacko:Producer:Father,Son
+Kunchacko,Kunchacko Boban:Producer,Actor:Grand Father,Grand Son
+Boban Kunchacko,Kunchacko Boban:Producer,Actor:Father,Son
+Indrajith,Poornima Mohan:Actor:Husband,Wife
+Vijayakumar,Manjula:Actor:Husband,Wife
+Manjula,Preethi Vijayakumar:Actor:Mother,Daughter
+Manjula,Vanitha Vijayakumar:Actor:Mother,Daughter
+Vanitha Vijayakumar,Preethi Vijayakumar:Actor:Sister,Sister
+P Subramaniam,Subramaniam Kumar:Producer:Father,Son
+Ilayaraja,Gangai Amaran:Musician:Brother
+Thampi Antony,Babu Antony:Actor:Brother
+P Gopikumar,P Chandrakumar:Director:Brother
+P Gopikumar,P Sukumar:Director:Brother
+P Chandrakumar,P Sukumar:Director:Brother
+Rafi,Shafi:Director:Brother
+Adoor Bhasi,Chandraji:Actor:Brother
+Ilayaraja,Yuvan Shankar Raja:Musician:Father,Son
+Manju Warrier,Madhu Warrier:Actor:Sister,Brother
+MG Radhakrishnan,K Omanakkutty:Musician,Singer:Brother,Sister
+Suchithra,Deepu Karunakaran:Actor,Director:Sister,Brother
+Bichu Thirumala,P Susheeladevi:Lyricist:Singer:Brother,Sister
+Darsan Raman,P Susheeladevi:Musician:Singer:Brother,Sister
+Vidhubala,Madhu Ambat:Actor,Camera:Sister,Brother
+Shanthikrishna,Suresh Krishna:Actor,Director:Sister,Brother
+Rajkumar,Sreepriya:Actor:Husband,Wife
+Latha,Rajkumar:Actor:Sister,Brother
+Manju Warrier,Dileep:Actor:Wife,Husband
+Parvathy,Jayaram:Actor:Wife,Husband
+Samyuktha Varma,Biju Menon:Actor:Wife,Husband
+Jayabharathi,Sathar:Actor:Ex-Wife,Ex-Husband
+Mallika,Sukumaran:Actor:Wife,Husband
+Seema,IV Sasi:Actor,Director:Wife,Husband
+Lakshmi,Mohan Sharma:Actor:Ex-Wife,Ex-Husband
+Lizzy,Priyadarsan:Actor,Director:Wife,Husband
+Menaka,Suresh Kumar:Actor,Producer:Wife,Husband
+Keerthi Suresh,Menaka:Actor:Daughter,Mother
+Keerthi Suresh,Suresh Kumar:Actor:Daughter,Father
+Chippi,M Ranjith:Actor,Producer:Wife,Husband
+Aani,Shaji Kailas:Actor,Director:Wife,Husband
+Suhasini,Manirathnam:Actor,Director:Wife,Husband
+Sharath,Sangeetha Sajith:Musician,Singer:Wife,Husband
+Kannur Rajan,Sangeetha Sajith:Musician,Singer:Father,Daughter
+Sharath,Kannur Rajan:Musician:Son-In-Law,Father-In-Law
+Mukesh,Saritha:Actor:Ex-Husband,Ex-Wife
+Rajanikanth,Latha:Actor:Husband,Wife
+Kamalahasan,Sarika:Actor:Ex-Husband,Ex-Wife
+Kamalahasan,Gowthami:Actor:Husband,Wife
+Bharathan,KPAC Lalitha:Director,Actor:Husband,Wife
+Selma George,KG George:Singer,Director:Wife,Husband
+Anju,Prabhakar:Actor:Wife,Husband
+Sukumari,A Bheem Singh:Actor,Director:Wife,Husband
+Urvasi,Manoj K Jayan:Actor:Ex-Wife,Ex-Husband
+Suparna,Sanjay:Actor:Wife,Husband
+Seetha,Parthiban:Actor:Ex-Wife,Ex-Husband
+Anupama,Mohan:Actor,Director:Wife,Husband
+Santha,Kochu Preman:Actor:Wife,Husband
+Alphonsa,Antony Perumbavoor:Actor,Producer:Wife,Husband
+Sujatha,Swetha:Singer:Mother,Daughter
+KJ Yesudas,Vijay Yesudas:Singer:Father,Son
+P Jaychandran,Dinanath Jayachandran:Singer:Father,Son
+K Raghavan,Kanakambaran:Musician,Singer:Father,Son
+Kaithapram,Deepankuran:Musician:Father,Son
+ML Vasanthakumari,Sreevidya:Singer,Actor:Mother,Daughter
+Charuhasan,Suhasini:Actor:Father,Daughter
+Sheela,Vishnu:Actor:Mother,Son
+Jayabharathi,Krish J Sathar:Actor:Mother,Son
+Sathar,Krish J Sathar:Actor:Father,Song
+Augustine,Ann Augustine:Actor:Father,Daughter
+Radha,Karthika Nair:Actor:Mother,Daughter
+Prem Nazeer,Shanavas:Actor:Father,Son
+MG Soman,Saji Soman:Actor:Father,Son
+TG Ravi,Sreejith Ravi:Actor:Father,Son
+O Madhavan,Mukesh:Actor:Father,Son
+Sreenivasan,Vineeth Sreenivasan:Actor:Father,Son
+Sreenivasan,Dhyan Sreenivasan:Actor:Father,Son
+Lalitha,Shobana:Actor:Aunt,Niece
+Padmini,Shobana:Actor:Aunt,Niece
+Ragini,Shobana:Actor:Aunt,Niece
+Sukumari,Shobana:Actor:Aunt,Niece
+Balan K Nair,Meghanathan:Actor:Father,Son
+Raghavan,Jishnu:Actor:Father,Son
+Rajan P Dev,Jubil Rajan P Dev:Actor:Father,Son
+Poornima Jayaram,Santhanu:Actor:Mother,Son
+Poornima Jayaram,Saranya Bhagyaraj:Actor:Mother,Daughter
+Fazil,Fahad Fazil:Director,Actor:Father,Son
+Bharathan,Sidharth Bharathan:Director,Actor:Father,Son
+KPAC Lalitha,Sidharth Bharathan:Actor,Actor:Father,Son
+Thilakan,Shammi Thilakan:Actor:Father,Son
+Thilakan,Shobi Thilakan:Actor:Father,Son
+Shammi Thilakan,Shobi Thilakan:Actor:Step-Brother,Step-Brother
+Raveendran,Sajan Madhav:Musician:Father,Son
+Ali Akbar,Aleena Ali Akbar:Lyricist,Singer:Father,Daughter
+BA Chidambaranath,Rajamani:Musician:Father,Son
+Rajamani,Achu Rajamani:Singer,Musician:Father,Son
+BA Chidambaranath,Achu Rajamani:Grand Father,Grand Son
+Santha P Nair,Latha Raju:Singer:Mother,Daughter
+Santha P Nair,Aalaap Raju:Singer:Grand Mother,Grand Son
+JM Raju,Aalaap Raju:Singer:Father,Son
+Latha Raju,Aalaap Raju:Singer:Mother,Son
+Salil Chowdhary,Sabitha Chowdhary:Musician,Singer:Husband,Wife
+Salil Chowdhary,Sanjay Salil Chowdhary:Musician:Father,Son
+A Vincent,Jayanan Vincent:Director,Camera:Father,Son
+A Vincent,Ajayan Vincent:Director,Camera:Father,Son
+Jayaram,Kalidas:Actor:Father,Son
+Mohanlal,Pranav Mohanlal:Actor:Father,Son
+Mammootty,Dulquer Salman:Actor:Father,Son
+Dulquer Salman,Maqbool Salman:Actor:Cousin
+Prema,Shoba:Actor:Mother,Daughter
+Sathyan,Satheesh Sathyan:Actor:Father,Son
+NN Pillai,Vijayaraghavan:Actor:Father,Son
+Jagannadha Varma,Manu Varma:Actor:Father,Son
+S Ramesan Nair,Manu Ramesan:Lyricist,Musician:Father,Son
+Premji,KPAC Premachandran:Actor:Father,Son
+ONV Kurup,ONV Rajeev:Lyricist,Musician:Father,Son
+Vayalar,Sarath Vayalar:Lyricist:Father,Son
+Shivaji Ganesan,Prabhu:Actor:Father,Son
+Anand,Sabitha Anand:Actor:Father,Daughter
+RK Sekhar,AR Rahman:Musician:Father,Son
+Renuka,Anuradha Sriram:Singer:Mother,Daughter
+Devika,Kanaka:Actor:Mother,Daughter
+Bichu Thirumala,Suman Bichu:Lyricist,Musician:Father,Son
+Alummoodan,Boban Alummoodan:Actor:Father,Son
+Prem Prakash,Bobby:Producer,Screenplay:Father,Son
+Prem Prakash,Sanjay:Producer,Screenplay:Father,Son
+Kavalam Narayana Panicker,Kavalam Sreekumar:Lyricist,Singer:Father,Son
+Thoppi Bhasi,Ajayan:Director:Father,Son
+Thyagarajan,Prashanth:Actor:Father,Son
+Sukumari,Suresh:Actor:Mother,Son
+A Bheem Singh,Suresh:Director,Actor:Father,Son
+Jose,Pranathi:Actor:Father,Daughter
+Pavithra,Iva:Director,Actor:Father,Daughter
+VT Kumaran,VT Murali:Lyricist,Singer:Father,Son
+Abhayadev,Aravind Abhayadev:Lyricist:Father,Son
+Thomas Parannoor,Joffy Tharakan:Lyricist:Father,Son
+Sreemoolanagaram Vijayan,Sreemoolanagaram Mohan:Lyricist:Father,Son
+Dr Mohandas,Geethu Mohandas:Actor:Father,Daughter
+Ponkunnam Damodaran,MD Rajendran:Lyricist:Father,Son
+Ponkunnam Damodaran,MD Ajayaghosh:Lyricist,Screenplay:Father,Son
+Ponkunnam Damodaran,MD Rathnamma:Lyricist,Screenplay:Father,Daughter
+MD Rajendran,MD Ajayaghosh:Lyricist,Screenplay:Brother
+MD Rajendran,MD Rathnamma:Lyricist,Screenplay:Brother,Sister
+MD Rathnamma,MD Ajayaghosh:Screenplay:Sister,Brother
+TN Gopinathan Nair,Ravi Vallathol:Actor:Father,Son
+Sumithra,Umashankari:Actor:Mother,Daughter
+Ouseppachan,Arun Ouseppachan:Musician,Singer:Father,Son
+Ouseppachan,Franco:Musician,Singer:Uncle,Nephew
+Ambika (Old),Lalitha:Actor:Cousin
+Ambika (Old),Padmini:Actor:Cousin
+Ambika (Old),Ragini:Actor:Cousin
+Ambika (Old),Sukumari:Actor:Cousin
+Vineeth,Shobana:Actor:Cousin
+Shobana,Krishna:Actor:Cousin
+Lalitha,Krishna:Actor:Grand Mother,Grand Son
+Balaji,Mohanlal:Producer,Actor:Father-In-Law,Son-In-Law
+Samyuktha Varma,Urmila Unni:Actor:Niece,Aunt
+Navya Nair,K Madhu:Actor,Director:Niece,Uncle
+Jayabharathi,Munna:Actor:Aunt,Nephew
+Manju Pillai,SP Pillai:Actor:Grand Daughter,Grand Father
+Vijay Yesudas,Augustine Joseph:Singer:Grand Son,Grand Father
+Aparna,ONV Kurup:Singer,Lyricist:Grand Daughter,Grand Father
+Kamala Kailas Nathan,Priyamani:Singer,Actor:Grand Daughter,Grand Father
+
+
+

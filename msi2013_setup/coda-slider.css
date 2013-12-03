@@ -1,0 +1,99 @@
+body{ font-family:Arial, Helvetica, sans-serif;}
+
+#wrapper {
+    width: 760px;
+    margin: 0 auto;
+}
+
+#intro {
+    padding-bottom: 10px;
+}
+
+h2 {
+    margin: 0;
+    margin-bottom: 14px;
+    padding: 0;
+}
+
+#slider {
+    width: 570px;
+    float:left;
+    margin:15px 15px 15px 5px;
+    position: relative;
+    border:#ccc 1px solid;
+    border-radius:5px;
+    font-family:"HelveticaNeue-Light", "Helvetica Neue Light", "Helvetica Neue", Helvetica, Arial, "Lucida Grande", sans-serif; font-size:14px;
+}
+
+.scroll {
+   
+    width: 605px;
+    overflow: auto;
+    overflow-x: hidden;
+    position: relative;
+    clear: left;
+	font-family:"HelveticaNeue-Light", "Helvetica Neue Light", "Helvetica Neue", Helvetica, Arial, "Lucida Grande", sans-serif; font-size:14px;
+   
+}
+
+.scrollContainer div.panel {
+    padding: 10px;
+    height: 210px;
+    width: 580px;
+}
+/*
+#shade {
+    background: #EDEDEC url(images/shade.jpg) no-repeat 0 0;
+    height: 50px;
+}
+*/
+
+ul.navigation {
+    list-style: none;
+    margin: 0;
+    padding: 0;
+    padding:15px 0px 10px 15px;
+    border-bottom:#ccc 1px solid;
+}
+
+ul.navigation li {
+    display: inline;
+    margin-right: 2px;
+}
+
+ul.navigation a {
+    padding: 2px;
+    color: #000;
+    text-decoration: none;
+	font-family:"HelveticaNeue-Light", "Helvetica Neue Light", "Helvetica Neue", Helvetica, Arial, "Lucida Grande", sans-serif; font-size:14px;
+}
+
+ul.navigation a:hover {
+    color:#ce9350
+}
+
+ul.navigation a.selected {
+    background-color: #fff;
+}
+
+ul.navigation a:focus {
+    outline: none;
+}
+
+.scrollButtons {
+    position: absolute;
+    top: 150px;
+    cursor: pointer;
+}
+
+.scrollButtons.left {
+    left: -20px;
+}
+
+.scrollButtons.right {
+    right: -20px;
+}
+
+.hide {
+    display: none;
+}
